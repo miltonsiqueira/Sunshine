@@ -1,4 +1,4 @@
-package com.example.android.sunshine;
+package com.example.android.sunshine.app;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -18,6 +18,10 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+
+import com.example.android.sunshine.BuildConfig;
+import com.example.android.sunshine.R;
+import com.example.android.sunshine.app.DetailActivity;
 
 import org.json.JSONArray;
 import org.json.JSONException;

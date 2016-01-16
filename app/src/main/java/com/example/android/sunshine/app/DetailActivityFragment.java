@@ -1,4 +1,4 @@
-package com.example.android.sunshine;
+package com.example.android.sunshine.app;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,6 +13,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.example.android.sunshine.R;
 
 /**
  * A placeholder fragment containing a simple view.
