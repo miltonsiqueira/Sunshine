@@ -11,7 +11,6 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.android.sunshine.R;
 
 public class MainActivity extends AppCompatActivity {
 
